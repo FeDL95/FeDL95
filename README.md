@@ -1,6 +1,6 @@
 # Hello there 👀
 
-- 🖥️ .NET Developer and Electronical Engineer based in Italy
+- 🖥️ .NET Developer and Electronic Engineer based in Italy
 - 🎯 Currently focused on Full Stack Web Development
 - 🦝 New technologies and best practices enthusiast
 - 🖨️ 3D Printer! Last one built on my own
