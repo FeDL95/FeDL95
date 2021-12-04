@@ -1,5 +1,17 @@
-  # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-  <!-- [![](https://img.shields.io/github/followers/FeDL95.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/FeDL95) -->
+<p align="center">
+  <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
+</p>
+<p align="center">
+  <a href="https://fedl95.github.io">About Me</a>
+  |
+  <a href="https://www.linkedin.com/in/federico-di-luca-ing/">LinkedIn</a>
+</p>
+
+<!---
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=fedl95&color=blue&style=flat-square" alt="fedl95 profile views" />
+</p>
+-->
 
 - 🖥️ .NET Developer and Electronic Engineer based in Italy
 - 🎯 Currently focused on Full Stack Web Development
