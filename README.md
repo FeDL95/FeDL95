@@ -2,14 +2,14 @@
   <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
 </p>
 <p align="center">
-  <a href="https://fedl95.github.io">About Me</a>
+  <a href="https://federicodiluca.github.io">About Me</a>
   |
   <a href="https://www.linkedin.com/in/federico-di-luca-ing/">LinkedIn</a>
 </p>
 
 <!---
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=fedl95&color=blue&style=flat-square" alt="fedl95 profile views" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=federicodiluca&color=blue&style=flat-square" alt="fedl95 profile views" />
 </p>
 -->
 
@@ -22,12 +22,12 @@
   
 <p align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300px">
-  <img src="https://github-readme-stats.vercel.app/api?username=FeDL95&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />
 </p>
 
 <!--
 <p align="center">
-  <img width="360px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=FeDL95&layout=compact&langs_count=10&count_private=true&theme=github_dark">
+  <img width="360px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&langs_count=10&count_private=true&theme=github_dark">
 </p>
 --> 
 
