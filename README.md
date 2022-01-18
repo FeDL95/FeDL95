@@ -20,11 +20,6 @@
 - 📬 federico.diluca95@gmail.com
 - About me: 🌍🐶⛩️🖱️✨🎨🎾🍳🥂♟️🚲🏕️💃🏼⛷️⛰️
   
-<p align="center">
-  <img height="160px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&langs_count=10&count_private=true&theme=github_dark&hide=dockerfile">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />
-</p>
-
 <!--
 <p align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="400px">
@@ -54,3 +49,8 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federico.diluca95@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-di-luca-ing/)
 -->
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&langs_count=10&count_private=true&theme=github_dark&hide=dockerfile">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />
+</p>
