@@ -21,13 +21,15 @@
 - About me: 🌍🐶⛩️🖱️✨🎨🎾🍳🥂♟️🚲🏕️💃🏼⛷️⛰️
   
 <p align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300px">
-  <img src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />
+  <img height="160px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&langs_count=10&count_private=true&theme=github_dark&hide=dockerfile">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />
 </p>
 
+<!--
 <p align="center">
-  <img width="360px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&langs_count=10&count_private=true&theme=github_dark&hide=dockerfile">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="400px">
 </p>
+-->
 
 #### Top Skills
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
