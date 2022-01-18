@@ -25,11 +25,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />
 </p>
 
-<!--
 <p align="center">
-  <img width="360px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&langs_count=10&count_private=true&theme=github_dark">
+  <img width="360px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&langs_count=10&count_private=true&theme=github_dark&hide=dockerfile">
 </p>
---> 
 
 #### Top Skills
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
