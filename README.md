@@ -19,13 +19,23 @@
 - 🖨️ 3D Printer! Last one built on my own
 - 📬 federico.diluca95@gmail.com
 - About me: 🌍🐶⛩️🖱️✨🎨🎾🍳🥂♟️🚲🏕️💃🏼⛷️⛰️
-  
+
+---
+
+<p align="center">
+  Check out my paper: <br/>
+  <a href="https://www.mdpi.com/1507940">Human Being Detection from UWB NLOS Signals: Accuracy and Generality of Advanced Machine Learning Models</a>
+</p>
+
+---
+
 <!--
 <p align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="400px">
 </p>
 -->
 
+<!---
 #### Top Skills
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
@@ -33,6 +43,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+-->
 
 <!--
 ### Secondary Skills
