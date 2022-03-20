@@ -56,6 +56,6 @@
 </p>
 
 <p align="center">
-  <img height="140px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&langs_count=10&count_private=true&theme=github_dark&hide=dockerfile,typescript,shell">
+  <img height="140px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&langs_count=10&count_private=true&theme=github_dark&hide=dockerfile,typescript,shell,html,css">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />
 </p>
