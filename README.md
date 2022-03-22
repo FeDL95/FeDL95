@@ -57,6 +57,6 @@
 </p>
 
 <p align="center">
-  <img height="130px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&count_private=true&theme=github_dark&hide=dockerfile,shell,html">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />
+  <img height="160px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&count_private=true&theme=github_dark&hide=dockerfile,shell,html">
+  <!--<img height="130px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />-->
 </p>
