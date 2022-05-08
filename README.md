@@ -12,13 +12,16 @@
 <!-- <p align="center">🌍🐶🖨️⛩️🖱️✨🎨🎾🍳🥂♟️🚲🏕️💃🏼⛷️⛰️</p> -->
 <p align="center">
   <a href="https://federicodiluca.github.io" target="_blank">
-    <img align="center" src="https://federicodiluca.github.io/favicon.ico" height="30" width="30" />
+    <img align="center" src="https://federicodiluca.github.io/favicon.ico" height="30" width="30" alt="personal website" />
   </a>
   <a href="https://linkedin.com/in/federico-di-luca-ing/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" alt="linkedin" />
+  </a>
+  <a href="https://open.spotify.com/user/11144586313?si=5edb9020ba384e18" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/68862675/167297282-a1fc8e25-3232-4bf3-9c71-0e9a66c3fb38.png" height="30" width="30" alt="spotify" />
   </a>
   <a href="https://instagram.com/federicodiluca/" target="_blank">
-    <img align="center" src="https://instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" height="30" width="30" />
+    <img align="center" src="https://instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" height="30" width="30" alt="instagram" />
   </a>
 </p>
 
@@ -63,7 +66,7 @@
   <!-- <img height="120px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=prs,issues,contribs" /> -->
   
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&redirect=true" target="_blank">
-    <img height="120px" src="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&cover_image=true&theme=natemoo-re&bar_color=4258ff&bar_color_cover=false" />
+    <img height="120px" src="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&cover_image=true&theme=natemoo-re&bar_color=4258ff&bar_color_cover=false" alt="last listened on spotify"/>
   </a>
 </p>
 
