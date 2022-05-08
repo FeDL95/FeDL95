@@ -1,11 +1,6 @@
 <p align="center">
   <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
 </p>
-<p align="center">
-  <a href="https://federicodiluca.github.io">About Me</a>
-  |
-  <a href="https://www.linkedin.com/in/federico-di-luca-ing/">LinkedIn</a>
-</p>
 
 <!---
 <p align="center"> 
@@ -13,18 +8,25 @@
 </p>
 -->
 
-- 🖥️ .NET Developer and Electronic Engineer based in Italy
-- 🎯 Currently focused on Full Stack Web Development
-- 🦝 New technologies and best practices enthusiast
-- 🖨️ 3D Printer! Last one built on my own
-- 📬 federico.diluca95@gmail.com
-- About me: 🌍🐶⛩️🖱️✨🎨🎾🍳🥂♟️🚲🏕️💃🏼⛷️⛰️
+<p align="center">.NET Developer and Electronic Engineer based in Italy</p>
+<!-- <p align="center">🌍🐶🖨️⛩️🖱️✨🎨🎾🍳🥂♟️🚲🏕️💃🏼⛷️⛰️</p> -->
+<p align="center">
+  <a href="https://federicodiluca.github.io" target="_blank">
+    <img align="center" src="https://federicodiluca.github.io/favicon.ico" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/federico-di-luca-ing/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/federicodiluca/" target="_blank">
+    <img align="center" src="https://instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" height="30" width="30" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
   Check out my paper: <br/>
-  <a href="https://www.mdpi.com/1507940">Human Being Detection from UWB NLOS Signals: Accuracy and Generality of Advanced Machine Learning Models</a>
+  <a href="https://www.mdpi.com/1507940" target="_blank">Human Being Detection from UWB NLOS Signals: Accuracy and Generality of Advanced Machine Learning Models</a>
 </p>
 
 ---
@@ -57,6 +59,11 @@
 </p>
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&count_private=true&theme=github_dark&hide=dockerfile,shell,html,css">
-  <!--<img height="130px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />-->
+  <img height="120px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&count_private=true&theme=github_dark&hide=html,css">
+  <!-- <img height="120px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=prs,issues,contribs" /> -->
+  
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&redirect=true" target="_blank">
+    <img height="120px" src="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&cover_image=true&theme=natemoo-re&bar_color=4258ff&bar_color_cover=false" />
+  </a>
 </p>
+
