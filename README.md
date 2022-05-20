@@ -62,11 +62,11 @@
 </p>
 
 <p align="center">
-  <img height="120px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&count_private=true&theme=github_dark&hide=html,css">
+  <img height="140px" src="https://github-readme-stats-hephaest.vercel.app/api/top-langs/?username=federicodiluca&layout=compact&count_private=true&theme=github_dark&hide=html,css">
   <!-- <img height="120px" src="https://github-readme-stats.vercel.app/api?username=federicodiluca&count_private=true&show_icons=true&theme=github_dark&hide=prs,issues,contribs" /> -->
   
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&redirect=true" target="_blank">
+  <!-- <a href="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&redirect=true" target="_blank">
     <img height="120px" src="https://spotify-github-profile.vercel.app/api/view?uid=11144586313&cover_image=true&theme=natemoo-re&bar_color=4258ff&bar_color_cover=false" alt="last listened on spotify"/>
-  </a>
+  </a> -->
 </p>
 
