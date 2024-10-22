@@ -8,7 +8,7 @@
 </p>
 -->
 
-<p align="center">.NET Developer and Electronic Engineer based in Italy</p>
+<p align="center">Computer Science Teacher and .NET Technical Leader based in Italy</p>
 <!-- <p align="center">🌍🐶🖨️⛩️🖱️✨🎨🎾🍳🥂♟️🚲🏕️💃🏼⛷️⛰️</p> -->
 <p align="center">
   <a href="https://federicodiluca.github.io" target="_blank">
